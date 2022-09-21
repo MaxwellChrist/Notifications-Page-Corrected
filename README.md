@@ -1,3 +1,5 @@
+This code was copied from my other github repo https://github.com/MaxwellChrist/Notifications-Page. I moved around some files and screwed up the pathing of what github recognized, so I could not host my website through github pages. After copying the files over to this repo, I was able to delete some files and add others to make the hosting work. In case it looked like there wasn't that many commits on this page, that is the reason.
+
 This project is a coding challenge from Frontend Mentor where I have to create a notifications page. I am given the starting files of html, but I have to build out the CSS and JS. I want to practice my flexbox and typescript skills, so this project is focused on implementing those technologies. Because this is a pretty straightforward project, I decided not to use any frameworks either. For more information, See the information listed below provided by frontend mentor:
 
 # Frontend Mentor - Notifications page
