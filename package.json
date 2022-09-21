@@ -1,0 +1,20 @@
+{
+  "name": "p2",
+  "version": "1.0.0",
+  "description": "\"# Typescript2\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./public/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellChrist/Typescript2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellChrist/Typescript2/issues"
+  },
+  "homepage": "https://github.com/MaxwellChrist/Typescript2#readme"
+}
