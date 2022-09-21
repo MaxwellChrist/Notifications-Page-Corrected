@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MaxwellChrist/Notifications-Page-Corrected/issues"
   },
-  "homepage": "https://github.com/MaxwellChrist/Notifications-Page-Corrected#readme"
+  "homepage": "https://github.com/MaxwellChrist/Notifications-Page-Corrected#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
